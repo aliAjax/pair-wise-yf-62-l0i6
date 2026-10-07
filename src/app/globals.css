@@ -7,3 +7,4 @@ body { font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif; }
 .low-bandwidth .map-shell { display: none; }
 .section-title { letter-spacing: -.02em; }
 .event-dot { width: 9px; height: 9px; border-radius: 50%; background: #0e7490; box-shadow: 0 0 0 4px #cffafe; }
+.forecast-bar { background: linear-gradient(90deg, #eef2ff 0%, #f0fdfa 100%); border-color: #c7d2fe; }
